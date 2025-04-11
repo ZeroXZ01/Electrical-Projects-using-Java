@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Simulation-and-Analysis-of-a-Buck-Converter" />
+        <module name="Simple-Optimal-Power-Flow-OPF-Solver" />
+        <module name="Overcurrent-Relay-Coordination-Analysis-Tool" />
+        <module name="Simulation-of-a-PID-Controller-for-DC-Motor-Speed-Control" />
+        <module name="Solar-PV-System-Performance-Analysis-and-Monitoring-Tool" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

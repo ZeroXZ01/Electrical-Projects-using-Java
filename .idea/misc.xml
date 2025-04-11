@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Solar-PV-System-Performance-Analysis-and-Monitoring-Tool/pom.xml" />
+        <option value="$PROJECT_DIR$/Overcurrent-Relay-Coordination-Analysis-Tool/pom.xml" />
+        <option value="$PROJECT_DIR$/Simulation-and-Analysis-of-a-Buck-Converter/pom.xml" />
+        <option value="$PROJECT_DIR$/Simulation-of-a-PID-Controller-for-DC-Motor-Speed-Control/pom.xml" />
+        <option value="$PROJECT_DIR$/Simple-Optimal-Power-Flow-OPF-Solver/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
