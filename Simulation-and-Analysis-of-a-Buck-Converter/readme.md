@@ -72,11 +72,3 @@ This simulation can be extended in several ways:
 * **Control Loop Implementation:** Simulate a closed-loop control system with a feedback mechanism (e.g., PID controller) to regulate the output voltage.
 * **More Advanced Numerical Methods:** Use higher-order numerical integration methods (e.g., Runge-Kutta) for potentially more accurate simulation results.
 * **Parameter Sweeps:** Implement functionality to easily simulate the converter's behavior for a range of component values or operating conditions.
-
-## Author
-
-[Your Name/Organization]
-
-## License
-
-[Your License (e.g., MIT License, Apache License 2.0)]
