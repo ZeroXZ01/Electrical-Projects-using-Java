@@ -60,11 +60,3 @@ This tool can be extended in several ways:
 * **Standard Relay Library:** Expand the tool to include a library of predefined standard relay characteristic curves and parameters.
 * **Fault Current Calculation:** Integrate with fault analysis tools or implement basic fault current calculation methods.
 * **Reporting:** Generate detailed reports on the relay characteristics and coordination analysis.
-
-## Author
-
-[Your Name/Organization]
-
-## License
-
-[Your License (e.g., MIT License, Apache License 2.0)]
