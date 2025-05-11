@@ -64,11 +64,3 @@ This tool can be expanded in several ways:
 * **Performance Forecasting:** Implement basic forecasting models to predict future energy generation based on historical data and weather forecasts.
 * **Customizable Plotting Options:** Allow users to customize the appearance of the plots and select different data to visualize.
 * **Data Export:** Implement functionality to export the analyzed data and generated plots in various formats.
-
-## Author
-
-[Your Name/Organization]
-
-## License
-
-[Your License (e.g., MIT License, Apache License 2.0)]
