@@ -79,11 +79,3 @@ This simulation can be extended in several ways:
 * **Load Torque Variations:** Simulate the motor's response to varying load torques.
 * **Disturbance Rejection Analysis:** Analyze the controller's ability to reject external disturbances.
 * **Graphical User Interface (GUI):** Develop a user interface to allow for easy modification of motor and controller parameters and visualization of results.
-
-## Author
-
-[Your Name/Organization]
-
-## License
-
-[Your License (e.g., MIT License, Apache License 2.0)]
