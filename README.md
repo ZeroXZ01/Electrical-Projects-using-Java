@@ -79,11 +79,3 @@ These projects serve as basic examples and can be extended in various ways, incl
 * Reading data from external files or databases.
 * Implementing more advanced analysis and control techniques.
 * Expanding the scope to larger and more complex systems.
-
-## Author
-
-[Your Name/Organization]
-
-## License
-
-[Your License (e.g., MIT License, Apache License 2.0)]
