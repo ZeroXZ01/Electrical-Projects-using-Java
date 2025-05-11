@@ -97,11 +97,3 @@ This is a basic DC OPF simulation. Potential extensions include:
 * **AC Power Flow:** Extend the model to use the non-linear AC power flow equations for a more accurate representation of the power system.
 * **Larger Systems:** Scale the simulation to handle power systems with a larger number of buses and lines.
 * **Graphical Output:** Visualize the power system and the results.
-
-## Author
-
-\[Your Name/Organization]
-
-## License
-
-\[Your License (e.g., MIT License, Apache License 2.0)]
